@@ -2,7 +2,7 @@
 
 Esta es una aplicación web creada con las tecnologías de nextjs, typescript, nodejs y postgresql. Permite crear, actualizar y eliminar tareas.
 
-![App de tareas](https://res.cloudinary.com/dhpf7lthd/image/upload/v1678906906/task-app_zxh8f7.jpg)
+![App de tareas](https://res.cloudinary.com/dhpf7lthd/image/upload/v1688134403/projects/task-app_zxh8f7_d1p0kn.jpg)
 
 > Pantalla principal de la aplicación
 
